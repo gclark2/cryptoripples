@@ -8,7 +8,17 @@ Notes:
 
 -> heroku: interface with the heroku app (how you make heroku computers run your code for you)
 	commands:
+		git push heroku master - push app to heroku
 		
+		heroku open - open app on heroku
+
+
+/* TO DO: plans for the future  */	
+
+--> get familiar with REST APIs
+--> write a simple front end so you can see what the app on heroku is doing
+
+--> start interfacing with Google Sheets to place data in proper cells, etc
 
 
 
